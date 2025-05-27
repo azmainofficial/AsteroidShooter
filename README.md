@@ -1,6 +1,6 @@
 # 🚀 Asteroids Shooter Game
 
-A 2D arcade-style Asteroids Shooter game built using **C++** and **OpenGL GLUT**. Control a spaceship, shoot down colorful asteroids, and survive wave after wave of cosmic chaos. Developed with love and a spark of retro gaming flair by **Azmain (41220200226)**.
+A 2D arcade-style Asteroids Shooter game built using **C++** and **OpenGL GLUT**. Control a spaceship, shoot down colorful asteroids, and survive wave after wave of cosmic chaos. Developed with love and a spark of retro gaming flair by **Azmain Sheikh Rubayed (41220200226)**.
 
 ---
 
